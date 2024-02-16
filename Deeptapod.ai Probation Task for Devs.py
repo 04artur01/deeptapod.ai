@@ -1,5 +1,8 @@
 import json
 
+// Overall, the code is well structured and follows logic
+// WELL DONE
+
 with open('database.txt', 'r') as data:
     names = data.read()
     name = ''
